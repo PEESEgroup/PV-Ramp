@@ -1,0 +1,7 @@
+torch==2.6.0
+torchvision
+numpy
+pandas
+h5py
+einops
+pytest
